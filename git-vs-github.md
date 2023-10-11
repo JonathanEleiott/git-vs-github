@@ -14,6 +14,9 @@
   - git add -> moves files/folders to the staging area
   - git commit -m "message here" -> takes everything from the staging area and makes it permanent*
   - git diff -> shows the difference in files since the last commit
+  - git remote -> shows connections to other places
+    - add -> creates a new connection
+    - -v -> verbose = more details
 
 - 3 different stages
   - working directory
