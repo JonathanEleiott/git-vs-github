@@ -6,6 +6,7 @@
 
 - GitHub
   - place to store our projects
+  - create a new repo (repository) (project code)
 
 - git commands
   - git init -> allows a project to use git commands
