@@ -17,6 +17,9 @@
   - git remote -> shows connections to other places
     - add -> creates a new connection
     - -v -> verbose = more details
+  - git push -> copies your code to wherever you're sending it
+    - nickname of remote
+    - branch name
 
 - 3 different stages
   - working directory
